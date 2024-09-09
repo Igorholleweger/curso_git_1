@@ -1,6 +1,10 @@
 Hello, this is a test for my experience
+<<<<<<< HEAD
 a
 b
 c
 d
 e
+=======
+atualizacao
+>>>>>>> teste_criacao
