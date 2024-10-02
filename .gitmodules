@@ -1,3 +1,6 @@
 [submodule "1_repositorio"]
     path = 1_repositorio
     url = https://github.com/Igorholleweger/curso_git_1.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/Igorholleweger/submodule.git
